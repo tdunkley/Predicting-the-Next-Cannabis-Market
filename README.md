@@ -3,8 +3,8 @@
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo-size](https://img.shields.io/github/repo-size/tdunkley/capstone-project)
 ![GitHub contributors](https://img.shields.io/github/contributors/tdunkley/capstone-project)
-![GitHub stars](https://img.shields.io/github/stars/tdunkley/capstone-project.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tdunkley/capstone-project.md?style=social)
+![GitHub stars](https://img.shields.io/github/stars/tdunkley/capstone-project?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tdunkley/capstone-project?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
