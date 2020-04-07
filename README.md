@@ -29,7 +29,7 @@ Linux and macOS:
 
 Windows:
 ```
-<install_command>
+**Download** *Git* from [Git for Windows](https://gitforwindows.org) and **install it**.
 ```
 ## Using Prediciting the Next Cannibus Market in the U.S.
 
