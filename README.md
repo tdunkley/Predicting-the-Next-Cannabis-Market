@@ -23,9 +23,8 @@ Before you begin, ensure you have met the following requirements:
 To install Prediciting the Next Cannibus Market in the U.S., follow these steps:
 
 Linux and macOS:
-```
-<install_command>
-```
+
+[Git for Linux and macOS](https://www.greengeeks.com/tutorials/article/install-git-on-mac-os-and-linux/)
 
 Windows:
 
