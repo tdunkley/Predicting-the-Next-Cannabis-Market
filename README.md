@@ -33,11 +33,9 @@ Windows:
 
 ## Using Prediciting the Next Cannibus Market in the U.S.
 
-To use Prediciting the Next Cannibus Market in the U.S., follow these steps:
+To use Prediciting the Next Cannibus Market in the U.S., follow the appropriate instructions here:
 
-```
-<usage_example>
-```
+[Git Commands](https://education.github.com/git-cheat-sheet-education.pdf)
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
