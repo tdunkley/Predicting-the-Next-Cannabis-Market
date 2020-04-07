@@ -55,13 +55,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## Contributors
 
-Thanks to the following people who have contributed to this project:
-
-* [@scottydocs](https://github.com/scottydocs) 📖
-* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
-
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+There are no contributors to this project at this time.
 
 ## Contact
 
