@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/tdunkley/capstone-project?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tdunkley?style=social)
 
-Predicting the Next Cannibus Market in the U.S. is a project that attempts to determine the next state that will legalize recreational cannibus use. Housing Estimates, Demographic Estmates, Housing Charactertistics, Economic Characteristics, Social Characteristics data by State and County from the U.S. Census was used for this analysis. In addition, Religion and Election Data from the Public Religion Research Institute and Legalization Status from DISA was used as well 
+Predicting the Next Cannibus Market in the U.S. is a project that attempts to determine the next state that will legalize recreational cannibus use. Housing Estimates, Demographic Estmates, Housing Charactertistics, Economic Characteristics and Social Characteristics data by State and County from the U.S. Census was used for this analysis. In addition, Religion and Election Data from the Public Religion Research Institute and Legalization Status from DISA was used as well. 
 
 
 ## Prerequisites
