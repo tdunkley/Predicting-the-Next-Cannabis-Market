@@ -70,4 +70,4 @@ If you want to contact me you can reach me at <tdunkley@gmail.com>.
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: https://github.com/tdunkley/capstone-project/blob/master/LICENSE.
