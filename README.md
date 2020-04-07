@@ -7,10 +7,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/tdunkley/capstone-project?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tdunkley?style=social)
 
-Predicting the Next Cannibus Market in the U.S. is a project that attempts to deterine the next state that will legalize recreational cannibus use. Data was retrieved from the following sources:
+Predicting the Next Cannibus Market in the U.S. is a project that attempts to determine the next state that will legalize recreational cannibus use. Housing Estimates, Demographic Estmates, Housing Charactertistics, Economic Characteristics, Social Characteristics data by State and County from the U.S. Census was used for this analysis. In addition, Religion and Election Data from the Public Religion Research Institute and Legalization Status from DISA was used as well 
 
-1.) Housing, Economic and Demographic data by State and County from the U.S Census
-2.) 
 
 ## Prerequisites
 
@@ -20,9 +18,9 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
 * You have read `<guide/link/documentation_related_to_project>`.
 
-## Installing <project_name>
+## Installing Prediciting the Next Cannibus Market in the U.S.
 
-To install <project_name>, follow these steps:
+To install Prediciting the Next Cannibus Market in the U.S., follow these steps:
 
 Linux and macOS:
 ```
@@ -33,9 +31,9 @@ Windows:
 ```
 <install_command>
 ```
-## Using <project_name>
+## Using Prediciting the Next Cannibus Market in the U.S.
 
-To use <project_name>, follow these steps:
+To use Prediciting the Next Cannibus Market in the U.S., follow these steps:
 
 ```
 <usage_example>
@@ -43,9 +41,9 @@ To use <project_name>, follow these steps:
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-## Contributing to <project_name>
+## Contributing to Prediciting the Next Cannibus Market in the U.S.
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+To contribute to Prediciting the Next Cannibus Market in the U.S., follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
