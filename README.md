@@ -1,4 +1,4 @@
-# Prediciting the Next Cannibus Market in the U.S.
+# Prediciting the Next Cannibis Market in the U.S.
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo-size](https://img.shields.io/github/repo-size/tdunkley/capstone-project)
@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/tdunkley/capstone-project?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tdunkley?style=social)
 
-Predicting the Next Cannibus Market in the U.S. is a project that attempts to determine the next state that will legalize recreational cannibus use. Housing Estimates, Demographic Estmates, Housing Charactertistics, Economic Characteristics and Social Characteristics data by State and County from the U.S. Census was used for this analysis. In addition, Religion and Election Data from the Public Religion Research Institute and Legalization Status from DISA was used as well. 
+Predicting the Next Cannibis Market in the U.S. is a project that attempts to determine the next state that will legalize recreational cannibus use. Housing Estimates, Demographic Estmates, Housing Charactertistics, Economic Characteristics and Social Characteristics data by State and County from the U.S. Census was used for this analysis. In addition, Religion and Election Data from the Public Religion Research Institute and Legalization Status from DISA was used as well. 
 
 
 ## Prerequisites
@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 * You have a Windows or Mac machine.
 
 
-## Installing Prediciting the Next Cannibus Market in the U.S.
+## Installing Prediciting the Next Cannibis Market in the U.S.
 
 To install Prediciting the Next Cannibus Market in the U.S., follow these steps:
 
@@ -31,14 +31,14 @@ Windows:
 **Download** *Git* from [Git for Windows](https://gitforwindows.org) and **install it**.
 
 
-## Using Prediciting the Next Cannibus Market in the U.S.
+## Using Prediciting the Next Cannibis Market in the U.S.
 
-To use Prediciting the Next Cannibus Market in the U.S., follow the appropriate instructions here:
+To use Prediciting the Next Cannibis Market in the U.S., follow the appropriate instructions here:
 
 [Git Commands](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
-## Contributing to Prediciting the Next Cannibus Market in the U.S.
+## Contributing to Prediciting the Next Cannibis Market in the U.S.
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to Prediciting the Next Cannibus Market in the U.S., follow these steps:
 
