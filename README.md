@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing Prediciting the Next Cannibis Market in the U.S.
 
-To install Prediciting the Next Cannibus Market in the U.S., follow these steps:
+To install Prediciting the Next Cannibis Market in the U.S., follow these steps:
 
 Linux and macOS:
 
@@ -40,7 +40,7 @@ To use Prediciting the Next Cannibis Market in the U.S., follow the appropriate 
 
 ## Contributing to Prediciting the Next Cannibis Market in the U.S.
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to Prediciting the Next Cannibus Market in the U.S., follow these steps:
+To contribute to Prediciting the Next Cannibis Market in the U.S., follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
